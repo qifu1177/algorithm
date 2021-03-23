@@ -1,5 +1,4 @@
-# algorithm
-Algorithms
+# Algorithms
 <ul>
   <li>Sudoku Solver</li>
   <li>Jump Game</li>
