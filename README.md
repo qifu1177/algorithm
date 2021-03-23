@@ -1,3 +1,5 @@
 # algorithm
 Algorithms
-  Sudoku Solver
+  Sudoku Solver;
+  Jump Game;
+  Merge k Sorted Lists;
